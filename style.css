@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    font-family: arial;
+    color: white
+}
+
+h1 {
+    color: grey;
+    font-family: verdana
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 480px;
+    padding: 20px;
+    border-radius: 25px;
+    align-items: center;
+}
+.maincontenct{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+button{
+    border-radius: 10px;
+}
